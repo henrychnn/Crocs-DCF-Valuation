@@ -101,4 +101,8 @@ The valuation is particularly sensitive to long-term operating profitability and
 - Yahoo Finance -- CROX equity beta and historical stock price data
 - Kroll -- Equity risk premium estimates
 
+## Excel Workbook
+
+[View the Complete Crocs DCF Valuation Model](CROCS_DCF_VALUATION.xlsx)
+
 *This project was completed for educational and financial modeling purposes and does not constitute investment advice.*
