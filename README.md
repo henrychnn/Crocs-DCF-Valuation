@@ -98,14 +98,7 @@ The valuation is particularly sensitive to long-term operating profitability and
 - Crocs Inc. SEC Form 10-K filings
 - Crocs Investor Relations earnings releases and financial guidance
 - U.S. Department of the Treasury historical yield data
-- Published equity beta and equity risk premium estimates
-
-## Excel Workbook
-
-**[View the Complete Crocs DCF Valuation Model](CROCS_DCF_VALUATION.xlsx)**
-
-The workbook includes historical financial data, forecasting assumptions, projected income statements, free cash flow calculations, WACC, sensitivity analysis, and a valuation summary.
-
----
+- Yahoo Finance -- CROX equity beta and historical stock price data
+- Kroll -- Equity risk premium estimates
 
 *This project was completed for educational and financial modeling purposes and does not constitute investment advice.*
